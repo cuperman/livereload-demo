@@ -5,9 +5,15 @@ A demonstration of how to use livereload (automatic browser reloading) for a Nod
 ## Starting the Demo
 
 * Install dependencies
-  npm install
+
+ npm install
+
+* Start the livereload server
+
+ grunt
 
 * Start the Node app
-  node app.js
+
+ node app.js
 
 * Now connect a browser to http://localhost:3000

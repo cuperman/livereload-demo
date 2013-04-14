@@ -8,5 +8,10 @@
   "dependencies": {
     "express": "3.1.2",
     "ejs": "*"
+  },
+  "devDependencies": {
+    "grunt-regarde": "*",
+    "grunt-contrib-connect": "*",
+    "grunt-contrib-livereload": "*"
   }
 }
