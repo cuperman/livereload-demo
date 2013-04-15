@@ -13,4 +13,4 @@ A demonstration of how to use livereload (automatic browser reloading) for a Nod
 * Start the Node app
 `node app.js`
 
-* Now connect a browser to http://localhost:3000
+* Now connect a browser to http://localhost:3000. The browser will auto-reload when the code on the server changes.
